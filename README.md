@@ -15,7 +15,7 @@
 
 ![Three views of a red crossbody bag: hanging in an entryway, isolated on white, and closely framed against a warm gray background](assets/product-photo-workflow.jpg)
 
-*AI-generated illustration of a product photo workflow.*
+*Example workflow for preparing a listing image and a gallery detail from one product photo.*
 
 | Left · Source photo | Center · Main listing image | Right · Gallery detail |
 | --- | --- | --- |
