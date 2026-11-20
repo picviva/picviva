@@ -1,9 +1,9 @@
-<h1 align="center">PicViva</h1>
+<h1 align="center">PicViva — AI Product Photo Editor</h1>
 
 <p align="center"><strong>AI product photo editing for ecommerce sellers</strong></p>
 
 <p align="center">
-  Clean up product photos, create new versions, and check listing images before you upload.
+  The official GitHub home of PicViva, an AI product photo editor and marketplace image checker for ecommerce sellers.
 </p>
 
 ## What is PicViva?
